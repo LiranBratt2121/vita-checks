@@ -1,7 +1,7 @@
 {
   "files": {
     "main.js": "/dev.github.io/expo-gh-pages/static/js/main.5d5c38bd.js",
-    "static/js/87.7906b7fd.js": "/dev.github.io/expo-gh-pages/static/js/87.7906b7fd.js",
+    "static/js/87.24598474.js": "/dev.github.io/expo-gh-pages/static/js/87.24598474.js",
     "static/media/icon.png": "/dev.github.io/expo-gh-pages/static/media/icon.b840c45a9bda04d50771.png",
     "favicon.ico": "/dev.github.io/expo-gh-pages/favicon.ico",
     "index.html": "/dev.github.io/expo-gh-pages/index.html",
@@ -10,10 +10,10 @@
     "manifest.json": "/dev.github.io/expo-gh-pages/manifest.json",
     "serve.json": "/dev.github.io/expo-gh-pages/serve.json",
     "main.5d5c38bd.js.map": "/dev.github.io/expo-gh-pages/static/js/main.5d5c38bd.js.map",
-    "87.7906b7fd.js.map": "/dev.github.io/expo-gh-pages/static/js/87.7906b7fd.js.map"
+    "87.24598474.js.map": "/dev.github.io/expo-gh-pages/static/js/87.24598474.js.map"
   },
   "entrypoints": [
-    "static/js/87.7906b7fd.js",
+    "static/js/87.24598474.js",
     "static/js/main.5d5c38bd.js"
   ]
 }
